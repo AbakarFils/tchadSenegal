@@ -1,0 +1,80 @@
+
+
+/* ==== Google font ==== */
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Playfair+Display');
+
+
+/*****************************************************************************
+*                         Demande de Visa || Page 2                        *
+****************************************************************************
+*/
+#visa {
+  padding-top:90px;
+  background:#fff;
+  padding-bottom:50px;
+}
+#visa a{
+  text-decoration: none;
+  color: #21037c;
+}
+
+#visa a:hover{
+  color: #21037c;
+}
+.box{
+  padding-bottom:30px;
+  padding-left:10px;
+  padding-right:10px;
+  cursor: pointer;
+  border-radius: 5px;
+  box-shadow: 10px 5px 10px #21037c;
+  transition:  .5s;
+  box-sizing: border-box;
+}
+
+.box:hover {
+  border-radius:6px;
+  box-shadow: 2px 2px 2px #21037c;
+  
+}
+
+.box i.fa{
+  transition: .5s;
+}
+.box i.fa:hover {
+  background:#fff;
+  color: #21037c;
+}
+
+
+.text-center i {
+  font-size:20px;
+  margin-top:20px;
+  margin-bottom:10px;
+  color:#fff;
+  padding:20px;
+  background: #21037c;
+  border-radius:50%;
+}
+#visa.text-center h2 {
+  margin-top:20px;
+  margin-bottom:20px;
+  color: #000;
+}
+
+.text-center h3 {
+  font-size:35px;
+  margin-top:50px;
+  margin-bottom:20px;
+  color:#000;
+}
+
+.text-center p {
+  margin-bottom:30px;
+}
+
+/*****************************************************************************
+*               Tourisme et Culture || Présentation || Page 3              *
+****************************************************************************
+*/
